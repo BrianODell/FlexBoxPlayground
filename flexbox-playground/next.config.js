@@ -1,4 +1,4 @@
 module.exports = {
   reactStrictMode: true,
-  assetPrefix: '/BrianODell/',
+  assetPrefix: '/FlexBoxPlayground/',
 }
