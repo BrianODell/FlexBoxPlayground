@@ -8,6 +8,20 @@
   height: 100vh;
 }
 
+.flexcontainer {
+  display: flex;
+  height: 200px;
+  width: 400px;
+  background-color: purple;
+}
+
+.flexitem {
+  width: 100px;
+  height: 100px;
+  background-color: orange;
+  margin: auto;
+}
+
 .main {
   padding: 5rem 0;
   flex: 1;
